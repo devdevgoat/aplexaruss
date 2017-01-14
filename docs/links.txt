@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1504.76">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">Alexa Skills Kit: https://developer.amazon.com/home.html</p>
+<p class="p1">Lambda: https://aws.amazon.com/lambda/</p>
+<p class="p1">DynamoDB: https://aws.amazon.com/dynamodb/</p>
+<p class="p1">AWS Account: https://www.amazon.com/ap/signin?openid.assoc_handle=aws&amp;openid.return_to=https://signin.aws.amazon.com/oauth?response_type=code&amp;client_id=arn:aws:iam::015428540659:user/awssignupportal&amp;redirect_uri=http</p>
+<p class="p1">ASK Developer Console: https://developer.amazon.com/alexa-skills-kit</p>
+<p class="p1">plex2csv: https://developer.amazon.com/alexa-skills-kit</p>
+<p class="p1">My Echo: http://alexa.amazon.com/spa/index.html#skills/your-skills/?ref-suffix=ysa_gw</p>
+<p class="p1">7zip:http://www.7-zip.org/</p>
+<p class="p1">My Devices: https://plex.tv/devices.xml</p>
+<p class="p1">My IP: http://lmgtfy.com/?q=what's+my+ip</p>
+<p class="p1">AWS CLI: http://docs.aws.amazon.com/cli/latest/userguide/installing.html#choosing-an-installation-method</p>
+<p class="p1">Node: https://nodejs.org/en/download/</p>
+<p class="p2"><br></p>
+</body>
+</html>

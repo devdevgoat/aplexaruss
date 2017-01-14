@@ -1,0 +1,31 @@
+{
+  "name": "aplexaruss",
+  "version": "1.0.0",
+  "description": "This is a branch of the alexa-plex application created by OverloadUT, reworked to fit the current plex api and add some additional functionality such as movie access. This is basically a break fix, done by someone who doesn't know how to code very well. Try to make this work at your own peril.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "plex",
+    "movies",
+    "home",
+    "automation",
+    "media"
+  ],
+  "author": "Russ Lamb",
+  "license": "MIT",
+  "devDependencies": {
+    "aws-sdk": "^2.2.20",
+    "npm": "^3.3.5"
+  },
+  "dependencies": {
+    "alexa-app": "OverloadUT/alexa-app#develop",
+    "clj-fuzzy": "^0.3.1",
+    "dotenv": "^1.2.0",
+    "plex-api": "OverloadUT/node-plex-api#develop",
+    "plex-api-pinauth": "^0.1.0",
+    "q": "^1.4.1"
+  }
+}
