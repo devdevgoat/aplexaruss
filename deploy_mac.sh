@@ -8,7 +8,10 @@ cd ..
 npm install -g --prefix ./dist/install
 rm ./dist/dist.zip
 cd ./dist/install/lib/node_modules/aplexaruss/
-zip -qr ../../../../dist.zip * .env
+rm -rf ./node_modules/plex-api
+mkdir ./node_modules/plex-api
+cp -R ../../../../../customized_modules/plex-api/* ./node_modules/plex-api/
+zip -qr ../../../../dist.zip * .env -x "*.p*"
 echo files are ready
 cd ..
 cd ..

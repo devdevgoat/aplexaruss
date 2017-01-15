@@ -1,6 +1,6 @@
 rm ./dist/dist.zip
 cd ./dist/install/lib/node_modules/aplexaruss/
-zip -qr ../../../../dist.zip * .env
+zip -qr ../../../../dist.zip * .env -x "*.p*"
 echo files are ready
 cd ..
 cd ..
